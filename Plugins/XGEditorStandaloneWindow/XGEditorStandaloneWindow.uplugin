@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "XGEditorStandaloneWindow",
+	"Description": "",
+	"Category": "XGPlugin",
+	"CreatedBy": "XG",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "XGEditorStandaloneWindow",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
